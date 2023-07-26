@@ -1,0 +1,67 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: bisque;
+
+    
+
+  }
+                
+#maintitle{
+  
+    margin-left: 25%;
+    margin-right: -25%;
+    
+}
+#subtitle{
+    margin-top: 10px;
+    margin-left: 25%;
+    margin-right: -25%;
+}
+
+
+
+#logo{
+   margin-top: 20px;
+   margin-left: 25%;
+   margin-right: -25%;
+    width: 600px;
+    height: 250px;
+    border: 10px solid black
+}
+
+/*Meyve Kutusu*/
+.box-fruits{
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+
+.fruits-class{
+   font-size: 25px;
+ margin-left: 60px;
+ 
+}
+
+/*Meyve Resimleri*/
+.box-fruits img{
+
+    display:block;
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 140px;
+  
+    
+    
+}
+
+.fruits-button{
+    border: 5px black solid;
+    font-size: 30px;
+    margin-left: 70px;
+  
+   
+ 
+}
